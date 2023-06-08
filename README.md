@@ -1,7 +1,5 @@
 # Hi 👋 I am Vincent!
 
-
-## About
 I am a rising senior at the University of Michigan studying Data Science and Economics. I have a passion for leveraging machine learning and data analytics to drive business outcomes. With experience in natural language processing, computer vision, exploratory data analysis, and programming, I'm able to handle all stages of the data science lifecycle, from data collection and cleaning to modeling and deployment.
 
 
