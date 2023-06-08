@@ -4,7 +4,7 @@ I am a rising senior at the University of Michigan studying Data Science and Eco
 
 
 ## Experience
-🧪 **Monitoring, Technology, and Verification Undergraduate Program** - *Sofware Engineering Intern*  (May. 2023 - Present)
+🧪 **Detection for Nuclear Nonproliferation Group** - *Sofware Engineering Intern*  (May. 2023 - Present)
 
 🔬 **Low-Impact Energy Technologies (ASSET) Lab** - *Research Assistant* (May. 2023 - Present)
 
