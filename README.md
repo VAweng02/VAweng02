@@ -9,8 +9,6 @@
 
 - 📄 See my full resume at [https://drive.google.com/file/d/1U2O3lyD_HEUq0bFzAC7jUrvtPdw7kz7S/view?usp=sharing](https://drive.google.com/file/d/1U2O3lyD_HEUq0bFzAC7jUrvtPdw7kz7S/view?usp=sharing)
 
-- ⚡ Interests: **Tech. Gadgets, Blogging, Chess, Anime, Working Out**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vincent-weng-181788210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vincent-weng-181788210/" height="30" width="40" /></a>
