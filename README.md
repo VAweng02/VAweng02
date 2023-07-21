@@ -1,9 +1,25 @@
-## Hi 👋, I'm Vincent
+# Vincent Weng
 
-- 👨‍💻 Explore my personal website at [https://vincentweng.com/](https://vincentweng.com/)
+Data Science + Economics @ UMich | Passionate about leveraging machine learning and data analytics to drive business outcomes
 
-- 📝 I regularly write blogs on [https://medium.com/@vweng](https://medium.com/@vweng)
+## Contacts + Links
 
-- 📫 How to reach me **vincentweng011@gmail.com**
+- Explore my personal website at https://vincentweng.com/](https://vincentweng.com/
 
-- 📄 See my full resume at [https://drive.google.com/file/d/1U2O3lyD_HEUq0bFzAC7jUrvtPdw7kz7S/view?usp=sharing](https://drive.google.com/file/d/1U2O3lyD_HEUq0bFzAC7jUrvtPdw7kz7S/view?usp=sharing)
+- Check out my blogs at [https://medium.com/@vweng](https://medium.com/@vweng)
+
+- Find my LinkedIn at https://www.linkedin.com/in/vincentweng0
+
+- See my full resume at https://drive.google.com/file/d/1U2O3lyD_HEUq0bFzAC7jUrvtPdw7kz7S/view?usp=sharing
+
+- Reach out to me at **vincentweng011@gmail.com**
+
+## Professional Experience
+
+- Software Engineering Intern @ **Detection for Nuclear Nonproliferation Group** | May. 2023 - Present
+  
+- Student Data Analyst @ **Low-Impact Energy Technologies Lab** | May. 2023 - Present
+  
+- Data Science Intern @ **Data Glacier (IT Services and IT Consulting)** | Feb. 2023 - May. 2023
+
+- Data Science Intern @ **Ipsos (Market Research & Consulting Firm)** | Jun. 2022 - Aug. 2022
