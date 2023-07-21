@@ -4,11 +4,11 @@ Data Science + Economics @ UMich | Passionate about leveraging machine learning 
 
 ## Contacts + Links
 
-- Explore my personal website at https://vincentweng.com
+- Explore my personal website at www.vincentweng.com
 
 - Check out my blogs at [https://medium.com/@vweng](https://medium.com/@vweng)
 
-- Find my LinkedIn at https://www.linkedin.com/in/vincentweng0
+- Find my LinkedIn at www.linkedin.com/in/vincentweng0
 
 - See my full resume at [https://drive.google.com/file/d/1U2O3lyD_HEUq0bFzAC7jUrvtPdw7kz7S/view?usp=sharing](https://drive.google.com/file/d/1-cviBIuXOlOEPLAmqINhzre-VSFSoytQ/view?usp=sharing)
 
