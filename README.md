@@ -1,6 +1,6 @@
 # Vincent Weng
 
-Data Science + Economics @ UMich | Passionate about leveraging machine learning and data analytics to drive business outcomes
+DS + Econ @ UMich | Passionate about leveraging machine learning and data analytics to drive business outcomes
 
 ## Contacts + Links
 
