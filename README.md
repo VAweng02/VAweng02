@@ -10,8 +10,6 @@ Passionate about leveraging data analytics, machine learning, and artificial int
 
 - Find my LinkedIn at www.linkedin.com/in/vincentweng0
 
-- See my full resume at [https://drive.google.com/file/d/1U2O3lyD_HEUq0bFzAC7jUrvtPdw7kz7S/view?usp=sharing](https://drive.google.com/file/d/1-cviBIuXOlOEPLAmqINhzre-VSFSoytQ/view?usp=sharing)
-
 - Reach out to me at **vincentweng011@gmail.com**
 
 ## Professional Experience
