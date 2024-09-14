@@ -1,5 +1,5 @@
 # Vincent Weng
-I am currently pursuing a Master's in Data Science at the University of Michigan. I am passionate about leveraging data analytics, machine learning, and artificial intelligence to drive business outcomes
+Graduate student at the University of Michigan pursuing an M.S. in Data Science, with an interest in MLOps, AI Automation, and Quantitative Finance
 
 ## Contacts + Links
 
