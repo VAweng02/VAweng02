@@ -21,6 +21,6 @@ Graduate student at the University of Michigan pursuing an M.S. in Data Science,
 
 ## Research Experience
 
-- Software Engineering Intern @ **Detection for Nuclear Nonproliferation Group** | May 2023 - Present
+- Software Engineering Intern @ **Detection for Nuclear Nonproliferation Group** | May 2023 - May 2024
   
 - Data Analyst @ **Low-Impact Energy Technologies Lab** | May 2023 - Aug 2023
