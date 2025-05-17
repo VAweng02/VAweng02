@@ -17,10 +17,10 @@ Recent M.S. Data Science graduate from the University of Michigan with a passion
   
 - Data Science Intern @ **Data Glacier (IT Services and IT Consulting)** | Feb 2023 - May 2023
 
-- Data Science Intern @ **Ipsos (Market Research & Consulting Firm)** | Jun 2022 - Aug 2022
+- Software Engineering Intern @ **Ipsos (Market Research & Consulting Firm)** | Jun 2022 - Aug 2022
 
 ## Research Experience
 
-- Software Engineering Intern @ **Detection for Nuclear Nonproliferation Group** | May 2023 - May 2024
+- Student Researcher @ **Detection for Nuclear Nonproliferation Group** | May 2023 - May 2024
   
-- Data Analyst @ **Low-Impact Energy Technologies Lab** | May 2023 - Aug 2023
+- Student Researcher @ **Low-Impact Energy Technologies Lab** | May 2023 - Aug 2023
