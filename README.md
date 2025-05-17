@@ -1,5 +1,5 @@
 # Vincent Weng
-Graduate student at the University of Michigan pursuing an M.S. in Data Science, with an interest in MLOps, AI Automation, and Quantitative Finance
+Recent M.S. Data Science graduate from the University of Michigan with a passion in MLOps, AI automation, and quantitative modeling.
 
 ## Contacts + Links
 
